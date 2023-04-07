@@ -1,1 +1,1 @@
-# Nope - KI Player (_programming_language_)
+# Nope - KI Spieler (_<programmier_sprache>_)
